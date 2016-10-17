@@ -1,0 +1,18 @@
+
+Project Experience Highlights:
+1.  Project Name                     : EACI  - WADM
+Team Size                                :   6
+Client                                       :  FedEx - US
+Technologies                           :  HTML5, CSS3, Java Script MVC using CanJS, Grunt server, Yeoman,   StealJS, JQuerypp
+Role                                         :  Developer 
+Description:-
+The new EACI GUI is a modernization which provides a company or organization a way to manage its users and shipping activities in order to efficiently conduct its business and control costs.
+One or more people are setup as “Company Administrators,” with the ability to define permissions and privileges for the other users (employees).  The Company Admin can set up other users to ship using the company accounts and specify their shipping capabilities, including shipping services, special services, pickup scheduling, etc…
+The Company Administrator can also set up “Groups,” which are simply collections of users. The Company Admin can specify the allowable shipping activities for the group. He can also assign individual users as members of these groups and those users will inherit the allowable activities assigned to the group.
+The Company Admin can also setup users to be “Group Administrators,” giving them similar control over the shipping activities of the other members of the group.
+The permissions, privileges and other things assigned by the Company Admins or Group Admins are stored by EACI.  Other shipping applications access these stored items when a user interacts with the shipping application. These shipping applications then tailor their presentation to the user, defining the shipping capabilities of the individual users.
+Responsibilities: 
+1. Designed JSON data for ADMC.
+2. Involved in the design of data flow model for the application.
+3. Involved in the integration of ADMC & WADM with Java. 
+
