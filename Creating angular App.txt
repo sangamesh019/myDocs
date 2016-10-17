@@ -1,0 +1,23 @@
+npm install & grunt server
+http://localhost:1337/shipadmin/development.html?testData=success1
+
+·	First install node js 
+·	Change to npm
+·	Set the path in the environmental variable.
+npm config set proxy http://***.com:8080
+·	npm set proxy=http://***.com:8080
+·	npm set https-proxy=http://***.com:8080
+·	npm install --global git
+·	npm install --global grunt-cli 
+·	npm install --global bower
+    npm install --save-dev grunt-wiredep
+·	npm install --global yo
+·	npm install --global generator-angular
+·	yo angular
+.   npm install grunt --save-dev
+   bower install jquery --save
+·	grunt serve --force
+
+npm install -g graceful-fs graceful-fs@latest
+
+npm install -g npm (updating npm)
